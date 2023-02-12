@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class GreedyAlgorithm {
     public static void main(String[] args) {
         String[] arr = new String[]{"aa", "ab", "ba"};
         int result = longestPalindrome(arr);

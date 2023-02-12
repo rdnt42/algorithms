@@ -1,6 +1,6 @@
-package marowak.example;
+package org.example;
 
-public class Main {
+public class SlidingWindow {
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring("Hello world!"));
     }

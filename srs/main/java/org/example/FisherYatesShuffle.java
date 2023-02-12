@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Random;
 
-public class Main {
+public class FisherYatesShuffle {
 
     // https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
     public static void main(String[] args) {

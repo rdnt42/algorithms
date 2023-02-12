@@ -1,6 +1,6 @@
-package marowak.example;
+package org.example;
 
-public class Main {
+public class KadaneAlgorithm {
     public static void main(String[] args) {
         int[] arr = new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4};
         System.out.println(gitMaxSumForSubArray(arr));
